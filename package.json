@@ -1,0 +1,27 @@
+{
+  "name": "dreamcord-server",
+  "version": "1.0.0",
+  "description": "Server of DreamCord",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antonio225t/dreamcord-server.git"
+  },
+  "keywords": [
+    "dreamcord-server",
+    "server",
+    "dreamcord"
+  ],
+  "author": "Antonio225",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Antonio225t/dreamcord-server/issues"
+  },
+  "homepage": "https://github.com/Antonio225t/dreamcord-server#readme",
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}
