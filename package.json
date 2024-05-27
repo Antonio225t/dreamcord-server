@@ -4,7 +4,9 @@
   "description": "Server of DreamCord",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "watch": "tsc --watch",
+    "build": "tsc *.ts"
   },
   "repository": {
     "type": "git",
